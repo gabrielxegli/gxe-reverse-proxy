@@ -1,0 +1,16 @@
+{
+  "name": "gxe-reverse-proxy",
+  "version": "1.0.0",
+  "description": "This Node Reverse Proxy is built to be easy, reliable and integratable into my personal Homeserver setup",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gabriel Egli <gabriel.j.egli+npm@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "express": "4.18.2"
+  }
+}
